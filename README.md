@@ -1,2 +1,2 @@
 # hello
-Hi
+Demonstrate basic MVC
